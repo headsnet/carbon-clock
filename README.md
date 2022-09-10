@@ -1,3 +1,8 @@
+![Build Status](https://github.com/headsnet/carbon-clock/actions/workflows/ci.yml/badge.svg)
+[![Latest Stable Version](https://poser.pugx.org/headsnet/carbon-clock/v)](//packagist.org/packages/headsnet/carbon-clock)
+[![Total Downloads](https://poser.pugx.org/headsnet/carbon-clock/downloads)](//packagist.org/packages/headsnet/carbon-clock)
+[![License](https://poser.pugx.org/headsnet/carbon-clock/license)](//packagist.org/packages/headsnet/carbon-clock)
+
 # Carbon Clock
 
 A clock interface and implementation using the [Carbon](https://carbon.nesbot.com/docs/) date manipulation library.
